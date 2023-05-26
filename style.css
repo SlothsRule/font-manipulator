@@ -1,0 +1,36 @@
+body {
+    background-image: radial-gradient(circle, #ffffff, #f3ebfe, #f0d5f7, #f2bdea, #f7a3d6, #f7a3d6, #f7a3d6, #f7a3d6, #f2bdea, #f0d5f7, #f3ebfe, #ffffff);
+    font-family: cursive;
+}
+
+
+.heading
+{
+    font-size: 28px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px rgb(138, 112, 173);
+}
+
+.note
+{
+   font-size: 18px ; 
+   color: black;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    bottom: 0;
+    background-color: #a8eca8 ;
+width: 100%;
+text-align: center;
+line-height: 3;
+font-size: large;
+}
+
+canvas{
+    border:5px solid white;
+border-radius: 20px;
+box-shadow: 10px 11px 11px gray;
+}
